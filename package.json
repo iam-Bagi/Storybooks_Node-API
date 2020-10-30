@@ -8,8 +8,8 @@
     "dev": "cross-env NODE_ENV=development nodemon app",
     "postinstall": "node ./scripts/post-install.js"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "Bagirathan Udhaya sankar",
+  "license": " ",
   "dependencies": {
     "connect-mongo": "^3.2.0",
     "dotenv": "^8.2.0",
